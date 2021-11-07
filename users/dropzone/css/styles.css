@@ -1,0 +1,49 @@
+
+
+.btnSubmit {
+	background-color: #fd9512;
+	padding: 5px;
+	border-color: #FF6600;
+	border-radius: 4px;
+	color: white;
+}
+
+
+
+.listheader {
+	background-color: #607d8b;
+	color: #FDFDFD;
+}
+
+.action-icon {
+	margin-right: 10px;
+}
+
+.btn-menu {
+	margin: 30px 0px 20px;
+}
+
+.btn-menu a {
+	background: #23aae6;
+	padding: 10px 20px;
+	color: #FFF;
+	border-radius: 2px;
+	text-decoration: none;
+}
+
+.box-preview {
+	width: 300px;
+	margin: 30px auto;
+	border: 10px #b2b2b2 solid;
+	border-radius: 2px;
+}
+
+.box-preview img {
+	width: 100%;
+}
+
+.preview-footer {
+	padding: 10px 0px;
+	background: #b2b2b2;
+	color: #4e4e4e;
+}
