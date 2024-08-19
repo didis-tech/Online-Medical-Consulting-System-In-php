@@ -93,7 +93,7 @@
                   </div>
                   <div class="info-inner">
                      <span class="icontop"><i class="fa fa-envelope" aria-hidden="true"></i></span>
-                     <span class="iconcont"><a data-scroll href="mailto:info@Ediagnosis.com">info@Ediagnosis.com</a></span>
+                     <span class="iconcont"><a data-scroll href="mailto:info@ediagnosis.com">info@ediagnosis.com</a></span>
                   </div>
                   <div class="info-inner">
                      <span class="icontop"><i class="fa fa-clock-o" aria-hidden="true"></i></span>
