@@ -57,7 +57,7 @@ $count=0;
                                 <?php foreach($getDepts as $key => $dept): ?>
                                    <?php
                                    $dept_id=$dept['dept_id'];
-                                   $checkCmpt=$conn ->query("SELECT * FROM `complaints` where dept='$dept_id' and user_id='$id' and c_status='pending' or c_status='in progress'");
+                                   $checkCmpt=$conn->query("SELECT * FROM `complaints` where dept='$dept_id' and user_id='$id' and c_status='pending' or  dept='$dept_id' and user_id='$id' and c_status='in progress'");
                                    $cmptCnt=$checkCmpt->num_rows;
                                    $count=$count+1;
                                      if($dept['dept_status'] == 'active'){
